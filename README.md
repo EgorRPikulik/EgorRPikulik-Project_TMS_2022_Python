@@ -1,1 +1,2 @@
-# EgorRPikulik-Project_TMS_2022_Python
+# Pikulik Egor #
+## Z77 ##
